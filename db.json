@@ -83,34 +83,6 @@
   {
     "id": 21,
     "seat": "Reihe3-Platz7"
-  },
-   {
-    "id": 22,
-    "seat": "Reihe4-Platz1"
-  },
-  {
-    "id": 23,
-    "seat": "Reihe4-Platz2"
-  },
-  {
-    "id": 24,
-    "seat": "Reihe4-Platz3"
-  },
-  {
-    "id": 25,
-    "seat": "Reihe4-Platz4"
-  },
-  {
-    "id": 26,
-    "seat": "Reihe4-Platz5"
-  },
-  {
-    "id": 27,
-    "seat": "Reihe4-Platz6"
-  },
-  {
-    "id": 28,
-    "seat": "Reihe4-Platz7"
   }
 ],
   "profile": {

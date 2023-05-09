@@ -46,41 +46,5 @@
   {
     "id": 12,
     "seat": "Reihe2-Platz5"
-  },
-  {
-    "id": 13,
-    "seat": "Reihe2-Platz6"
-  },
-  {
-    "id": 14,
-    "seat": "Reihe2-Platz7"
-  },
-   {
-    "id": 15,
-    "seat": "Reihe3-Platz1"
-  },
-  {
-    "id": 16,
-    "seat": "Reihe3-Platz2"
-  },
-  {
-    "id": 17,
-    "seat": "Reihe3-Platz3"
-  },
-  {
-    "id": 18,
-    "seat": "Reihe3-Platz4"
-  },
-  {
-    "id": 19,
-    "seat": "Reihe3-Platz5"
-  },
-  {
-    "id": 20,
-    "seat": "Reihe3-Platz6"
-  },
-  {
-    "id": 21,
-    "seat": "Reihe3-Platz7"
   }
 ]

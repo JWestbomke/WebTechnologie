@@ -1,50 +1,15 @@
-[
-  {
-    "id": 1,
-    "seat": "Reihe1-Platz1"
-  },
-  {
-    "id": 2,
-    "seat": "Reihe1-Platz2"
-  },
-  {
-    "id": 3,
-    "seat": "Reihe1-Platz3"
-  },
-  {
-    "id": 4,
-    "seat": "Reihe1-Platz4"
-  },
-  {
-    "id": 5,
-    "seat": "Reihe1-Platz5"
-  },
-  {
-    "id": 6,
-    "seat": "Reihe1-Platz6"
-  },
-  {
-    "id": 7,
-    "seat": "Reihe1-Platz7"
-  },
-   {
-    "id": 8,
-    "seat": "Reihe2-Platz1"
-  },
-  {
-    "id": 9,
-    "seat": "Reihe2-Platz2"
-  },
-  {
-    "id": 10,
-    "seat": "Reihe2-Platz3"
-  },
-  {
-    "id": 11,
-    "seat": "Reihe2-Platz4"
-  },
-  {
-    "id": 12,
-    "seat": "Reihe2-Platz5"
+{
+  "seats": [
+    {
+      "id": 1,
+      "seat": "Reihe1-Sitz1"
+    },
+    {
+      "id": 2,
+      "seat": "Reihe1-Sitz2"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}

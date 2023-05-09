@@ -1,4 +1,4 @@
-{
+[
   {
     "id": 1,
     "seat": "Reihe1-Platz1"
@@ -55,4 +55,4 @@
     "id": 14,
     "seat": "Reihe2-Platz7"
   }
-}
+]

@@ -1,5 +1,4 @@
-{
-  "seats": [
+[
   {
     "id": 1,
     "seat": "Reihe1-Platz1"
@@ -84,8 +83,4 @@
     "id": 21,
     "seat": "Reihe3-Platz7"
   }
-],
-  "profile": {
-    "name": "typicode"
-  }
-}
+]

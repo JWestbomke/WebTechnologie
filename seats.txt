@@ -140,8 +140,5 @@
     "id": 35,
     "seat": "Reihe5-Platz7"
   }
-],
-  "profile": {
-    "name": "typicode"
-  }
+]
 }

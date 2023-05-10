@@ -14,7 +14,15 @@
     },
     {
       "id": 4,
-      "seat": "Reihe1-Sitz4"
+      "seat": "Reihe2-Sitz1"
+    },
+    {
+      "id": 5,
+      "seat": "Reihe2-Sitz2"
+    },
+    {
+      "id": 6,
+      "seat": "Reihe2-Sitz3"
     }
   ],
   "profile": {

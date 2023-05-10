@@ -13,38 +13,38 @@
   },
   {
     "id": 4,
-    "seat": "Reihe1-Platz4"
-  },
-  {
-    "id": 5,
-    "seat": "Reihe1-Platz5"
-  },
-  {
-    "id": 6,
-    "seat": "Reihe1-Platz6"
-  },
-  {
-    "id": 7,
-    "seat": "Reihe1-Platz7"
-  },
-   {
-    "id": 8,
     "seat": "Reihe2-Platz1"
   },
   {
-    "id": 9,
+    "id": 5,
     "seat": "Reihe2-Platz2"
   },
   {
+    "id": 6,
+    "seat": "Reihe3-Platz3"
+  },
+  {
+    "id": 7,
+    "seat": "Reihe4-Platz1"
+  },
+   {
+    "id": 8,
+    "seat": "Reihe4-Platz2"
+  },
+  {
+    "id": 9,
+    "seat": "Reihe4-Platz3"
+  },
+  {
     "id": 10,
-    "seat": "Reihe2-Platz3"
+    "seat": "Reihe5-Platz1"
   },
   {
     "id": 11,
-    "seat": "Reihe2-Platz4"
+    "seat": "Reihe5-Platz2"
   },
   {
     "id": 12,
-    "seat": "Reihe2-Platz5"
+    "seat": "Reihe5-Platz3"
   }
 ]

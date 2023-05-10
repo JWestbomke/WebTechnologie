@@ -7,6 +7,14 @@
     {
       "id": 2,
       "seat": "Reihe1-Sitz2"
+    },
+      {
+      "id": 3,
+      "seat": "Reihe1-Sitz3"
+    },
+    {
+      "id": 4,
+      "seat": "Reihe1-Sitz4"
     }
   ],
   "profile": {

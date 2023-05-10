@@ -2,27 +2,27 @@
   "seats": [
     {
       "id": 1,
-      "seat": "Reihe1-Sitz1"
+      "seat": "Reihe1-Platz1"
     },
     {
       "id": 2,
-      "seat": "Reihe1-Sitz2"
+      "seat": "Reihe1-Platz2"
     },
       {
       "id": 3,
-      "seat": "Reihe1-Sitz3"
+      "seat": "Reihe1-Platz3"
     },
     {
       "id": 4,
-      "seat": "Reihe2-Sitz1"
+      "seat": "Reihe2-Platz1"
     },
     {
       "id": 5,
-      "seat": "Reihe2-Sitz2"
+      "seat": "Reihe2-Platz2"
     },
     {
       "id": 6,
-      "seat": "Reihe2-Sitz3"
+      "seat": "Reihe2-Platz3"
     }
   ],
   "profile": {

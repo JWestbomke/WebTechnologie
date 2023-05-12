@@ -22,11 +22,20 @@
       "seat": "Reihe3-Platz1"
     },
     {
+      "seat": "Reihe3-Platz2"
+    },
+    {
+      "seat": "Reihe3-Platz3"
+    },
+    {
+      "seat": "Reihe4-Platz1"
+    },
+    {
       "seat": "Reihe4-Platz2"
     },
     {
-      "seat": "Reihe5-Platz3"
-    }
+      "seat": "Reihe4-Platz3"
+    },
   ],
   "profile": {
     "name": "typicode"

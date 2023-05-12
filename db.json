@@ -10,6 +10,18 @@
       "seat": "Reihe1-Platz3"
     },
     {
+      "seat": "Reihe1-Platz4"
+    },
+      {
+      "seat": "Reihe1-Platz5"
+    },
+    {
+      "seat": "Reihe1-Platz6"
+    },
+      {
+      "seat": "Reihe1-Platz7"
+    },
+    {
       "seat": "Reihe2-Platz1"
     },
     {
@@ -17,6 +29,18 @@
     },
     {
       "seat": "Reihe2-Platz3"
+    },
+     {
+      "seat": "Reihe2-Platz4"
+    },
+    {
+      "seat": "Reihe2-Platz5"
+    },
+    {
+      "seat": "Reihe2-Platz6"
+    },
+    {
+      "seat": "Reihe2-Platz7"
     },
     {
       "seat": "Reihe3-Platz1"
@@ -27,7 +51,19 @@
     {
       "seat": "Reihe3-Platz3"
     },
+     {
+      "seat": "Reihe3-Platz4"
+    },
     {
+      "seat": "Reihe3-Platz5"
+    },
+    {
+      "seat": "Reihe3-Platz6"
+    },
+    {
+      "seat": "Reihe3-Platz7"
+    },
+      {
       "seat": "Reihe4-Platz1"
     },
     {
@@ -36,6 +72,39 @@
     {
       "seat": "Reihe4-Platz3"
     },
+     {
+      "seat": "Reihe4-Platz4"
+    },
+    {
+      "seat": "Reihe4-Platz5"
+    },
+    {
+      "seat": "Reihe4-Platz6"
+    },
+    {
+      "seat": "Reihe4-Platz7"
+    },
+      {
+      "seat": "Reihe5-Platz1"
+    },
+    {
+      "seat": "Reihe5-Platz2"
+    },
+    {
+      "seat": "Reihe5-Platz3"
+    },
+     {
+      "seat": "Reihe5-Platz4"
+    },
+    {
+      "seat": "Reihe5-Platz5"
+    },
+    {
+      "seat": "Reihe5-Platz6"
+    },
+    {
+      "seat": "Reihe5-Platz7"
+    }
   ],
   "profile": {
     "name": "typicode"
